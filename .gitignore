@@ -1,0 +1,4 @@
+.venv
+test_logs.txt
+apache_logs.db
+.ipynb_checkpoints 
