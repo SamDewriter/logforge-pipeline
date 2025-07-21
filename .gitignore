@@ -1,4 +1,4 @@
 .venv
 test_logs.txt
 apache_logs.db
-_pycache_
+.ipynb_checkpoints 
