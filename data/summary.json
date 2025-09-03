@@ -1,0 +1,116 @@
+{
+    "top_endpoints": [
+        {
+            "path": "/favicon.ico",
+            "count": 788
+        },
+        {
+            "path": "/style2.css",
+            "count": 532
+        },
+        {
+            "path": "/reset.css",
+            "count": 528
+        },
+        {
+            "path": "/images/jordan-80.png",
+            "count": 522
+        },
+        {
+            "path": "/images/web/2009/banner.png",
+            "count": 506
+        },
+        {
+            "path": "/blog/tags/puppet?flav=rss20",
+            "count": 488
+        },
+        {
+            "path": "/projects/xdotool/",
+            "count": 221
+        },
+        {
+            "path": "/?flav=rss20",
+            "count": 217
+        },
+        {
+            "path": "/",
+            "count": 194
+        },
+        {
+            "path": "/projects/xdotool/xdotool.xhtml",
+            "count": 147
+        }
+    ],
+    "status_code_distribution": [
+        {
+            "status_code": 200,
+            "count": 8912
+        },
+        {
+            "status_code": 206,
+            "count": 45
+        },
+        {
+            "status_code": 301,
+            "count": 163
+        },
+        {
+            "status_code": 403,
+            "count": 2
+        },
+        {
+            "status_code": 404,
+            "count": 205
+        },
+        {
+            "status_code": 416,
+            "count": 2
+        },
+        {
+            "status_code": 500,
+            "count": 1
+        }
+    ],
+    "top_client_ips": [
+        {
+            "ipaddress": "66.249.73.135",
+            "count": 432
+        },
+        {
+            "ipaddress": "46.105.14.53",
+            "count": 364
+        },
+        {
+            "ipaddress": "130.237.218.86",
+            "count": 293
+        },
+        {
+            "ipaddress": "50.16.19.13",
+            "count": 113
+        },
+        {
+            "ipaddress": "209.85.238.199",
+            "count": 102
+        },
+        {
+            "ipaddress": "75.97.9.59",
+            "count": 99
+        },
+        {
+            "ipaddress": "68.180.224.225",
+            "count": 95
+        },
+        {
+            "ipaddress": "198.46.149.143",
+            "count": 82
+        },
+        {
+            "ipaddress": "208.115.111.72",
+            "count": 73
+        },
+        {
+            "ipaddress": "208.115.113.88",
+            "count": 66
+        }
+    ]
+}
